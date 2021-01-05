@@ -17,7 +17,7 @@ handleButton =() => {
 }
   render(){
     return(
-      <button onClick="handleButton">{this.state.timesClicked}</button>
+      <button onClick={handleButton}>{this.state.timesClicked}</button>
     )
   }
 }
