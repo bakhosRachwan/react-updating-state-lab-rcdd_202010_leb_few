@@ -1,6 +1,6 @@
 import React from 'react'
 
-class GigitalClicker extends React.Component{
+class DigitalClicker extends React.Component{
   constructor(){
     super();
 
@@ -15,3 +15,5 @@ class GigitalClicker extends React.Component{
     )
   }
 }
+
+export default DigitalClicker
