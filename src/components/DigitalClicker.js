@@ -9,7 +9,7 @@ class DigitalClicker extends React.Component{
     }
   }
 handleButton(){
-  
+
 }
   render(){
     return(
