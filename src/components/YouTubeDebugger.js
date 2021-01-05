@@ -16,9 +16,10 @@ class YouTubeDebugger extends React.Component {
   }
     render(){
       return(
+        <>
         <button></button>
         <button></button>
-
+        </>
       )
     }
   }
